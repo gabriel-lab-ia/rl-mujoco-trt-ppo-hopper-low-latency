@@ -162,5 +162,3 @@ This is documented and is the correct engineering decision.
 4. The non-executed TensorRT steps expose environment/runtime limitations and improve reproducibility instead of hiding failures.  
 
 This project forms a solid, professional-grade foundation for RL policy deployment in real-time systems, including robotics, embedded autonomy, and future high-speed UAV controllers.
-
-ed UAV controllers.
