@@ -1,0 +1,17 @@
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+runs/
+*.log
+
+ppo_hopper_fp16.engine
+trtexec_*.log
+
+# Optional large artifacts
+*.onnx
+*.zip
+
+.vscode/
+.DS_Store
